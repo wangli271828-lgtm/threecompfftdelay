@@ -1,0 +1,12 @@
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Simulation outputs and logs
+core/
+log/
+*.log
+julia_result.txt
+result.txt
+*.jld2

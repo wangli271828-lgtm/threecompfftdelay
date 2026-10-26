@@ -1,0 +1,18 @@
+l 8
+ns 2
+mu 0.0
+u 4.0
+warmstep 20
+measurestep 20
+seed 618
+beta 30
+interval 300
+p0 5
+latticetype 4
+rho1 1
+rho2 1
+mutuner false
+# hopping and energy scale
+t0 1.0
+# unequal time measurement
+uneq false
